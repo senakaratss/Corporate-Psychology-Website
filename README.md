@@ -64,29 +64,29 @@ npm run dev
 ### 🖼️ Ekran Görüntüleri
 
 <!-- Kullanıcı Arayüzü -->
+ <img src="./screenshots/homePage.png" width="250" />
 <p float="left">
-  <img src="./screenshots/home.png" width="200" />
-  <img src="./screenshots/homePage.png" width="200" />
-  <img src="./screenshots/services.png" width="200" />
-  <img src="./screenshots/blogs.png" width="200" />
+  <img src="./screenshots/home.png" width="250" />
+  <img src="./screenshots/services.png" width="250" />
+  <img src="./screenshots/blogs.png" width="250" />
 </p>
 
 <!-- Admin Paneli görselleri -->
 <p float="left">
-  <img src="./screenshots/admin-dashboard.png" width="200" />
-  <img src="./screenshots/admin-add-service.png" width="200" />
-  <img src="./screenshots/admin-services.png" width="200" />
-  <img src="./screenshots/admin-appointments.png" width="200" />
+  <img src="./screenshots/admin-dashboard.png" width="250" />
+  <img src="./screenshots/admin-add-service.png" width="250" />
+  <img src="./screenshots/admin-services.png" width="250" />
+  <img src="./screenshots/admin-appointments.png" width="250" />
 </p>
 
 <!-- Randevu Oluşturma adımları -->
 ### 📅 Randevu Oluşturma
 
 <p float="left">
-  <img src="./screenshots/appointments-service.png" width="200" />
-  <img src="./screenshots/appointments-date.png" width="200" />
-  <img src="./screenshots/appointment-time.png" width="200" />
-  <img src="./screenshots/appointment-form.png" width="200" />
+  <img src="./screenshots/appointments-service.png" width="250" />
+  <img src="./screenshots/appointments-date.png" width="250" />
+  <img src="./screenshots/appointment-time.png" width="250" />
+  <img src="./screenshots/appointment-form.png" width="250" />
 </p>
 
 
