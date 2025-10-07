@@ -16,7 +16,7 @@ Kurumsal bir psikoloji sitesi için geliştirilmiş fullstack bir web uygulamas�
 - Tarih, saat ve hizmet seçerek randevu oluşturabilir.
 - Aynı tarih ve saatte başka kullanıcı randevusu oluşturulamaz (çakışma önlenir).
 - **Adminin panelden eklediği tüm içerikleri görüntüleyebilir:**
-  - Kullanıcılar siteyi ziyaret ettiğinde, admin tarafından eklenen **hizmetler, blog yazıları, kampanyalar, hakkımızda ve iletişim bilgilerini** görebilirler.
+  - Kullanıcılar siteyi ziyaret ettiğinde, admin tarafından eklenen **hizmetler, blog yazıları, hakkımızda ve iletişim bilgilerini** görebilirler.
   - Kullanıcılar içerikleri **yalnızca görüntüleyebilir**, üzerinde değişiklik yapamazlar.
   - Tüm içerikler **dinamik olarak backend’den çekilir**, yani admin panelindeki güncellemeler otomatik olarak siteye yansır.
   - Blog yazıları ve hizmetler gibi içerikler **kategori** filtresiyle listelenebilir.
