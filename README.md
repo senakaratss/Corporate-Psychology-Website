@@ -65,11 +65,15 @@ npm run dev
 
 Randevu oluşturma adımları kullanıcıya şöyle sunulur:
 
-| Tarih & Saat | Hizmet Seçimi |
-|--------------|---------------|
-|  ![Service Selection](./screenshots/appointment-service.png) | ![Date](./screenshots/appointment-date.png) |
+**1. Tarih ve Saat Seçimi**  
+![Date & Time](./screenshots/appointment-date.png)
 
-| Kullanıcı Bilgileri | Onay Sayfası |
-|-------------------|--------------|
-| ![Time](./screenshots/appointment-time.png)  | ![User Form](./screenshots/appointment-form.png) |
+**2. Hizmet Seçimi**  
+![Service Selection](./screenshots/appointment-service.png)
+
+**3. Kullanıcı Bilgileri Formu**  
+![User Form](./screenshots/appointment-form.png)
+
+**4. Randevu Onayı**  
+![Confirmation](./screenshots/appointment-confirmation.png)
 
