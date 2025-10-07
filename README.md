@@ -59,4 +59,17 @@ npm run dev
 ```bash
 cd frontend
 npm run dev
-``` 
+```
+
+### 📅 Randevu Oluşturma
+
+Randevu oluşturma adımları kullanıcıya şöyle sunulur:
+
+| Tarih & Saat | Hizmet Seçimi |
+|--------------|---------------|
+|  ![Service Selection](./screenshots/appointment-service.png) | ![Date](./screenshots/appointment-date.png) |
+
+| Kullanıcı Bilgileri | Onay Sayfası |
+|-------------------|--------------|
+| ![Time](./screenshots/appointment-time.png)  | ![User Form](./screenshots/appointment-form.png) |
+
