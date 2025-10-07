@@ -1,6 +1,6 @@
 # Corporate Psychology Website
 
-Kurumsal bir psikoloji sitesi için geliştirilmiş tam stack bir web uygulamasıdır. Bu proje **React + Tailwind CSS** ile frontend, **Node.js + Express** ile backend olarak geliştirilmiş olup, kullanıcı ve admin yönetimini **JWT ile authentication** ile sağlamaktadır.  
+Kurumsal bir psikoloji sitesi için geliştirilmiş fullstack bir web uygulamasıdır. Bu proje **React + Tailwind CSS** ile frontend, **Node.js + Express** ile backend olarak geliştirilmiş olup, kullanıcı ve admin yönetimini **JWT ile authentication** ile sağlamaktadır.  
 
 ---
 
