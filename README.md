@@ -63,36 +63,28 @@ npm run dev
 
 ### 🖼️ Ekran Görüntüleri
 
-### 🖼️ Ekran Görüntüleri
+<p>
+  <img src="./screenshots/home.png" width="300" style="margin:0; padding:0;" />
+  <img src="./screenshots/homePage.png" width="300" style="margin:0; padding:0;" />
+  <img src="./screenshots/services.png" width="300" style="margin:0; padding:0;" />
+  <img src="./screenshots/blogs.png" width="300" style="margin:0; padding:0;" />
+</p>
 
-<table>
-  <tr>
-    <td><img src="./screenshots/home.png" width="300" /></td>
-    <td><img src="./screenshots/homePage.png" width="300" /></td>
-    <td><img src="./screenshots/services.png" width="300" /></td>
-    <td><img src="./screenshots/blogs.png" width="300" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="./screenshots/admin-dashboard.png" width="300" /></td>
-    <td><img src="./screenshots/admin-add-service.png" width="300" /></td>
-    <td><img src="./screenshots/admin-services.png" width="300" /></td>
-    <td><img src="./screenshots/admin-appointments.png" width="300" /></td>
-  </tr>
-</table>
+<p>
+  <img src="./screenshots/admin-dashboard.png" width="300" style="margin:0; padding:0;" />
+  <img src="./screenshots/admin-add-service.png" width="300" style="margin:0; padding:0;" />
+  <img src="./screenshots/admin-services.png" width="300" style="margin:0; padding:0;" />
+  <img src="./screenshots/admin-appointments.png" width="300" style="margin:0; padding:0;" />
+</p>
 
 ### 📅 Randevu Oluşturma
 
-<table>
-  <tr>
-    <td><img src="./screenshots/appointments-service.png" width="300" /></td>
-    <td><img src="./screenshots/appointments-date.png" width="300" /></td>
-    <td><img src="./screenshots/appointment-time.png" width="300" /></td>
-    <td><img src="./screenshots/appointment-form.png" width="300" /></td>
-  </tr>
-</table>
+<p>
+  <img src="./screenshots/appointments-service.png" width="300" style="margin:0; padding:0;" />
+  <img src="./screenshots/appointments-date.png" width="300" style="margin:0; padding:0;" />
+  <img src="./screenshots/appointment-time.png" width="300" style="margin:0; padding:0;" />
+  <img src="./screenshots/appointment-form.png" width="300" style="margin:0; padding:0;" />
+</p>
 
 
 
