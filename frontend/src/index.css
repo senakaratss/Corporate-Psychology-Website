@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Custom text stroke */
+/* Outline + Glow effect */
+.text-glow {
+  -webkit-text-stroke: 0.8px black; /* siyah dış çizgi */
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.6); /* hafif beyaz parlama */
+}
