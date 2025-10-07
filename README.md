@@ -64,8 +64,9 @@ npm run dev
 ### 🖼️ Ekran Görüntüleri
 
 <!-- Kullanıcı Arayüzü -->
-<p float="left">
   <img src="./screenshots/home.png" width="300" />
+
+<p float="left">
   <img src="./screenshots/homePage.png" width="300" />
   <img src="./screenshots/services.png" width="300" />
   <img src="./screenshots/blogs.png" width="300" />
