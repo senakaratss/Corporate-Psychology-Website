@@ -63,32 +63,37 @@ npm run dev
 
 ### 🖼️ Ekran Görüntüleri
 
-<!-- Kullanıcı Arayüzü -->
-  <img src="./screenshots/home.png" width="300" />
+### 🖼️ Ekran Görüntüleri
 
-<p float="left">
-  <img src="./screenshots/homePage.png" width="300" />
-  <img src="./screenshots/services.png" width="300" />
-  <img src="./screenshots/blogs.png" width="300" />
-</p>
+<table>
+  <tr>
+    <td><img src="./screenshots/home.png" width="300" /></td>
+    <td><img src="./screenshots/homePage.png" width="300" /></td>
+    <td><img src="./screenshots/services.png" width="300" /></td>
+    <td><img src="./screenshots/blogs.png" width="300" /></td>
+  </tr>
+</table>
 
-<!-- Admin Paneli görselleri -->
-<p float="left">
-  <img src="./screenshots/admin-dashboard.png" width="300" />
-  <img src="./screenshots/admin-add-service.png" width="300" />
-  <img src="./screenshots/admin-services.png" width="300" />
-  <img src="./screenshots/admin-appointments.png" width="300" />
-</p>
+<table>
+  <tr>
+    <td><img src="./screenshots/admin-dashboard.png" width="300" /></td>
+    <td><img src="./screenshots/admin-add-service.png" width="300" /></td>
+    <td><img src="./screenshots/admin-services.png" width="300" /></td>
+    <td><img src="./screenshots/admin-appointments.png" width="300" /></td>
+  </tr>
+</table>
 
-<!-- Randevu Oluşturma adımları -->
 ### 📅 Randevu Oluşturma
 
-<p float="left">
-  <img src="./screenshots/appointments-service.png" width="300" />
-  <img src="./screenshots/appointments-date.png" width="300" />
-  <img src="./screenshots/appointment-time.png" width="300" />
-  <img src="./screenshots/appointment-form.png" width="300" />
-</p>
+<table>
+  <tr>
+    <td><img src="./screenshots/appointments-service.png" width="300" /></td>
+    <td><img src="./screenshots/appointments-date.png" width="300" /></td>
+    <td><img src="./screenshots/appointment-time.png" width="300" /></td>
+    <td><img src="./screenshots/appointment-form.png" width="300" /></td>
+  </tr>
+</table>
+
 
 
 
