@@ -41,13 +41,17 @@ Kurumsal bir psikoloji sitesi için geliştirilmiş tam stack bir web uygulamas�
 ```bash
 git clone https://github.com/kullaniciAdi/Corporate-Psychology-Website.git
 2. Backend bağımlılıklarını yükle:
+```bash
 cd backend
 npm install
 3. Frontend bağımlılıklarını yükle:
+```bash
 cd frontend
 npm install
 4. Backend’i çalıştır:
+```bash
 npm run dev
 5. Frontend’i çalıştır:
+```bash
 cd frontend
 npm run dev
