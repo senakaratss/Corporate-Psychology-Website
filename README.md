@@ -61,19 +61,26 @@ cd frontend
 npm run dev
 ```
 
+![Home Page](./screenshots/home.png)
+![Services Page](./screenshots/services.png)
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+
 ### 📅 Randevu Oluşturma
 
 Randevu oluşturma adımları kullanıcıya şöyle sunulur:
 
-**1. Tarih ve Saat Seçimi**  
-![Date & Time](./screenshots/appointment-date.png)
+**1. Hizmet Seçimi**  
+![Service Selection](./screenshots/appointments-service.png)
 
-**2. Hizmet Seçimi**  
-![Service Selection](./screenshots/appointment-service.png)
+**2. Tarih Seçimi**  
+![Date](./screenshots/appointments-date.png)
 
-**3. Kullanıcı Bilgileri Formu**  
+**3.Saat Seçimi**  
+![Time](./screenshots/appointment-time.png)
+
+**4. Kullanıcı Bilgileri Formu**  
 ![User Form](./screenshots/appointment-form.png)
 
-**4. Randevu Onayı**  
-![Confirmation](./screenshots/appointment-confirmation.png)
+
 
