@@ -64,7 +64,6 @@ npm run dev
 ### 🖼️ Ekran Görüntüleri
 
 <p>
-  <img src="./screenshots/home.png" width="300" style="margin:0; padding:0;" />
   <img src="./screenshots/homePage.png" width="300" style="margin:0; padding:0;" />
   <img src="./screenshots/services.png" width="300" style="margin:0; padding:0;" />
   <img src="./screenshots/blogs.png" width="300" style="margin:0; padding:0;" />
