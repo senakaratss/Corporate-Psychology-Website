@@ -61,26 +61,33 @@ cd frontend
 npm run dev
 ```
 
-![Home Page](./screenshots/home.png)
-![Services Page](./screenshots/services.png)
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+### 🖼️ Ekran Görüntüleri
 
+<!-- Kullanıcı Arayüzü -->
+<p float="left">
+  <img src="./screenshots/home.png" width="200" />
+  <img src="./screenshots/homePage.png" width="200" />
+  <img src="./screenshots/services.png" width="200" />
+  <img src="./screenshots/blogs.png" width="200" />
+</p>
 
+<!-- Admin Paneli görselleri -->
+<p float="left">
+  <img src="./screenshots/admin-dashboard.png" width="200" />
+  <img src="./screenshots/admin-add-service.png" width="200" />
+  <img src="./screenshots/admin-services.png" width="200" />
+  <img src="./screenshots/admin-appointments.png" width="200" />
+</p>
+
+<!-- Randevu Oluşturma adımları -->
 ### 📅 Randevu Oluşturma
 
-Randevu oluşturma adımları kullanıcıya şöyle sunulur:
-
-**1. Hizmet Seçimi**  
-![Service Selection](./screenshots/appointments-service.png)
-
-**2. Tarih Seçimi**  
-![Date](./screenshots/appointments-date.png)
-
-**3.Saat Seçimi**  
-![Time](./screenshots/appointment-time.png)
-
-**4. Kullanıcı Bilgileri Formu**  
-![User Form](./screenshots/appointment-form.png)
+<p float="left">
+  <img src="./screenshots/appointments-service.png" width="200" />
+  <img src="./screenshots/appointments-date.png" width="200" />
+  <img src="./screenshots/appointment-time.png" width="200" />
+  <img src="./screenshots/appointment-form.png" width="200" />
+</p>
 
 
 
